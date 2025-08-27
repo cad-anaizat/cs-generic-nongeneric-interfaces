@@ -375,6 +375,3 @@ graph LR
    Resources: Released ✅
 ```
 
----
-
-*Ready for Section 2: Manual Enumerator Control Patterns?*
